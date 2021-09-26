@@ -2,7 +2,7 @@ import React from 'react';
 import './isspos.css';
 import GoogleMapReact from 'google-map-react'
 
-const ISS_URL = "https://api.open-notify.org/iss-now.json"
+const ISS_URL = "http://api.open-notify.org/iss-now.json"
 const MAP_KEY = "AIzaSyDjx71MZXvkmArFrs3V89raHMPfsi2Wn9o"
 const img = <img src={require("./components/iss.png").default}  alt = "ISS" height = "30px"/>
 
