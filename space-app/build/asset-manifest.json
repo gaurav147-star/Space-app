@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mohittk/Space-app/static/css/main.38e113f4.chunk.css",
-    "main.js": "/mohittk/Space-app/static/js/main.f74101e0.chunk.js",
-    "main.js.map": "/mohittk/Space-app/static/js/main.f74101e0.chunk.js.map",
-    "runtime-main.js": "/mohittk/Space-app/static/js/runtime-main.eae64fa0.js",
-    "runtime-main.js.map": "/mohittk/Space-app/static/js/runtime-main.eae64fa0.js.map",
+    "main.css": "/mohittk/Space-app/static/css/main.ceafe8de.chunk.css",
+    "main.js": "/mohittk/Space-app/static/js/main.a47345b5.chunk.js",
+    "main.js.map": "/mohittk/Space-app/static/js/main.a47345b5.chunk.js.map",
+    "runtime-main.js": "/mohittk/Space-app/static/js/runtime-main.630dc28a.js",
+    "runtime-main.js.map": "/mohittk/Space-app/static/js/runtime-main.630dc28a.js.map",
     "static/css/2.a1596f27.chunk.css": "/mohittk/Space-app/static/css/2.a1596f27.chunk.css",
-    "static/js/2.910e9a55.chunk.js": "/mohittk/Space-app/static/js/2.910e9a55.chunk.js",
-    "static/js/2.910e9a55.chunk.js.map": "/mohittk/Space-app/static/js/2.910e9a55.chunk.js.map",
+    "static/js/2.d7c7879d.chunk.js": "/mohittk/Space-app/static/js/2.d7c7879d.chunk.js",
+    "static/js/2.d7c7879d.chunk.js.map": "/mohittk/Space-app/static/js/2.d7c7879d.chunk.js.map",
     "index.html": "/mohittk/Space-app/index.html",
     "static/css/2.a1596f27.chunk.css.map": "/mohittk/Space-app/static/css/2.a1596f27.chunk.css.map",
-    "static/css/main.38e113f4.chunk.css.map": "/mohittk/Space-app/static/css/main.38e113f4.chunk.css.map",
-    "static/js/2.910e9a55.chunk.js.LICENSE.txt": "/mohittk/Space-app/static/js/2.910e9a55.chunk.js.LICENSE.txt",
+    "static/css/main.ceafe8de.chunk.css.map": "/mohittk/Space-app/static/css/main.ceafe8de.chunk.css.map",
+    "static/js/2.d7c7879d.chunk.js.LICENSE.txt": "/mohittk/Space-app/static/js/2.d7c7879d.chunk.js.LICENSE.txt",
     "static/media/Earth.png": "/mohittk/Space-app/static/media/Earth.3974f972.png",
     "static/media/Jupiter.png": "/mohittk/Space-app/static/media/Jupiter.f100a09b.png",
     "static/media/Mars.png": "/mohittk/Space-app/static/media/Mars.b5659544.png",
@@ -24,10 +24,10 @@
     "static/media/iss.png": "/mohittk/Space-app/static/media/iss.b1bbecff.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eae64fa0.js",
+    "static/js/runtime-main.630dc28a.js",
     "static/css/2.a1596f27.chunk.css",
-    "static/js/2.910e9a55.chunk.js",
-    "static/css/main.38e113f4.chunk.css",
-    "static/js/main.f74101e0.chunk.js"
+    "static/js/2.d7c7879d.chunk.js",
+    "static/css/main.ceafe8de.chunk.css",
+    "static/js/main.a47345b5.chunk.js"
   ]
 }
