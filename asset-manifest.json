@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mohittk/Space-app/static/css/main.38e113f4.chunk.css",
-    "main.js": "/mohittk/Space-app/static/js/main.cb6c39f4.chunk.js",
-    "main.js.map": "/mohittk/Space-app/static/js/main.cb6c39f4.chunk.js.map",
+    "main.js": "/mohittk/Space-app/static/js/main.f74101e0.chunk.js",
+    "main.js.map": "/mohittk/Space-app/static/js/main.f74101e0.chunk.js.map",
     "runtime-main.js": "/mohittk/Space-app/static/js/runtime-main.eae64fa0.js",
     "runtime-main.js.map": "/mohittk/Space-app/static/js/runtime-main.eae64fa0.js.map",
     "static/css/2.a1596f27.chunk.css": "/mohittk/Space-app/static/css/2.a1596f27.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.910e9a55.chunk.js",
     "static/css/main.38e113f4.chunk.css",
-    "static/js/main.cb6c39f4.chunk.js"
+    "static/js/main.f74101e0.chunk.js"
   ]
 }
