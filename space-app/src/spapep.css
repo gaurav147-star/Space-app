@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Poppins:wght@300&family=Secular+One&display=swap');
+
+body{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainspace {
+    padding: 1rem;
+    text-align: center;
+  
+
+}
+.blink{
+    animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+    50%{
+        opacity: 0;
+    }
+    
+}
+.mainspace h1{
+    font-family: 'Merriweather Sans', sans-serif;
+    color: white;
+    font-size: 2.5rem;
+    border-bottom: 5px solid white;
+    margin :1rem;
+    padding: 1rem;
+    background-color:rgb(91, 63, 245) ;
+    border-radius: 3px;
+    
+}
+.mainspace h2{ 
+    
+    text-align: center;
+    color: white;
+    font-family: Poppins;
+    font-weight: 800;
+    background-color:rgb(91, 63, 245);
+    padding: 1rem;
+    margin: 2rem;
+    font-size: 2rem;
+  
+}
+
+.mainspacecon {
+    padding: 1rem;
+    text-align: left;
+    margin :2rem;
+}
+
+.mainspacecon h4{ 
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 0.7rem;
+    font-family: Poppins;
+    background-color: rgb(91, 63, 245);
+    border-radius: 5px;
+  
+    color: whitesmoke;
+}
+.particle{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+  }
+
+
+.mainspacecon span{
+    color: white;
+    float: right;
+ 
+    border-radius: 5px;
+    padding: 0.2rem;
+    font-size: 1.5rem;
+    margin-right: 2rem;
+
+
+}
