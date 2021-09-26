@@ -7,7 +7,7 @@ const SpacePeople = () =>{
     const [data, setData] = useState([])
 
     const fetchApidata = async() =>{
-        const api = await fetch('http://api.open-notify.org/astros.json')
+        const api = await fetch('https://api.open-notify.org/astros.json')
         const apiData = await api.json();
         console.log(apiData);
         setData(apiData);
